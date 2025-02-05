@@ -1,0 +1,181 @@
+{
+    "semanaSantaJaen":{
+        "domingoDeRamos":{
+            "hermandades" : {
+                "laBorriquilla": {
+                    "nombreHermandad":"Hermandad de la Borriquilla",
+                    "sedeCanonica":"Iglesia Parroquial de Belén y San Roque",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ja%C3%A9n_-_Iglesia_de_Nuestra_Se%C3%B1ora_de_Belen_y_San_Roque_09.JPG/280px-Ja%C3%A9n_-_Iglesia_de_Nuestra_Se%C3%B1ora_de_Belen_y_San_Roque_09.JPG",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/escudo-nuevo-color-2-300x300.jpg",
+                    "titularI":"Nuestro Padre Jesús de la Salud",
+                    "imagenTitularI":"https://www.puertabarrera.com/wp-content/uploads/2022/04/La-Borriquilla-de-Jaen.jpg",
+                    "imagineroTitularI":"Antonio Joaquín Dubé de Luque",
+                    "videoTitularI":"https://www.youtube.com/watch?v=zSG1DzSf-JE",
+                    "titularMariana":"María Santísima de la Paz",
+                    "imagenTitularMariana":"https://i.ytimg.com/vi/U2QVC64Hsq8/maxresdefault.jpg",
+                    "imagineroTitularMariana":"Antonio Joaquín Dubé de Luque",
+                    "videoTitularMariana":"https://youtu.be/n7XVVOH0ffA?feature=shared"
+                },
+                "cena":{
+                    "nombreHermandad":"Hermandad de la Santa Cena",
+                    "sedeCanonica":"Iglesia Parroquial de San Juan Pablo II",
+                    "imagenSedeCanonica":"https://s1.ppllstatics.com/ideal/www/multimedia/202112/22/media/cortadas/42819724_2145233575718018_2493005889993179136_n-ks0H-U160338838851lcE-1248x770@Ideal.jpg",
+                    "insignia":"https://pbs.twimg.com/profile_images/1087886854207270917/lZVSqOY4_400x400.jpg",
+                    "titularI":"Jesús Salvador en su Santa Cena",
+                    "imagenTitularI":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKGOt62lF77gyC0QmclyeGaMgSKu8uvg2eg&s",
+                    "imagineroTitularI":"Antonio Bernal Redondo",
+                    "videoTitularI":"https://youtu.be/eHPD8_GuWhQ?feature=shared",
+                    "titularMariana":"María Santísima de la Caridad y Consolación",
+                    "imagenTitularMariana":"https://pbs.twimg.com/media/FPpX3MlWUAMIVrf?format=jpg&name=large",
+                    "imagineroTitularMariana":"Antonio Bernal Redondo",
+                    "videoTitularMariana":"https://youtu.be/1fK-eQjrOqo?feature=shared"
+                },
+                "piedadEstrella":{
+                    "nombreHermandad":"Hermandad de la Estrella",
+                    "sedeCanonica":"Iglesia Conventual de La Purísima Concepcion",
+                    "imagenSedeCanonica":"https://lh3.googleusercontent.com/proxy/fYEtbi-fnyLdmrCFHGM08toL7r7hMMKGY_KbtELbiodJ7E1B4DaXRsepXyWxOj2BZuQkC-FJu4sDPTRR1GRZTF-nr_BYPgpdbpyVOB1q-MNx",
+                    "insignia":"https://piedadyestrella.es/wp-content/uploads/2024/03/escudo-PyE-color.jpg",
+                    "titularI":"Ntro. Padre Jesús de la Piedad",
+                    "imagenTitularI":"https://www.piedadyestrella.es/wp-content/uploads/2011/10/256.jpg",
+                    "imagineroTitularI":"procedente del convento dominico de Santa María de Gracia (Córdoba)",
+                    "videoTitularI":"https://youtu.be/np_qheFK-tA?feature=shared",
+                    "titularMariana":"María Santísima de la Estrella",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Virgen_de_la_Estrella_Jaen.jpg/320px-Virgen_de_la_Estrella_Jaen.jpg",
+                    "imagineroTitularMariana":"Domingo Sánchez Mesa",
+                    "videoTitularMariana":"https://youtu.be/xJ-KW6XC6iw?feature=shared"
+                },
+                "oracion":{
+                    "nombreHermandad":"Oración en el Huerto",
+                    "sedeCanonica":"Basílica Menor de San Ildefonso",
+                    "imagenSedeCanonica":"https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/08/6392695435950.jpeg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/vera-cruz-1-300x300.jpg",
+                    "titularI":"Jesus Orando en el Huerto",
+                    "imagenTitularI":"https://jaen24h.com/wp-content/uploads/2019/04/Oracion20en20el20huerto20jaen20semana20santa20jaen24h.webp",
+                    "imagineroTitularI":"realizado en 1918 en Valencia, inspirándose en una obra que Francisco Salcillo",
+                    "videoTitularI":"https://youtu.be/pErY1ThOixo?feature=shared",
+                    "titularMariana":"María Santísima de los Desamparados",
+                    "imagenTitularMariana":"https://pasionenjaen.com/wp-content/uploads/2014/11/siete-palabras-luto-2014.jpg",
+                    "imagineroTitularMariana":"D.Ventura Gómez Rodríguez",
+                    "videoTitularMariana":"https://youtu.be/chQuzXGo0Fg?feature=shared"
+                }
+            }
+        },
+        "lunesSanto":{
+            "hermandades":{
+                "caridad":{
+                    "nombreHermandad":"Hermandad de la Caridad y Salud",
+                    "sedeCanonica":"Iglesia Parroquial de Santa María Madre de la Iglesia",
+                    "imagenSedeCanonica":"https://lh3.googleusercontent.com/proxy/v8HHcFYiOljfShdSrOAO9oqENTAfbbmraletomb_c0snExJTEQ2nYPF9CIar5g5x3J0dIUX0J4Gtw12mdVvzb_QyxE6CYAKiAmzi1arq",
+                    "insignia":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN6dBgDiMPjO49m-VQXmBQJiuJaAKNaGoag&s",
+                    "titularI":"Jesús de la Caridad",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caridad_Jaen.jpg/250px-Caridad_Jaen.jpg",
+                    "imagineroTitularI":"Miguel Cordero Romero",
+                    "videoTitularI":"https://youtu.be/heRf19d2FfU?feature=shared",
+                    "titularMariana":"María Santísima de la Salud",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mar%C3%ADa_Santisima_De_La_Salud_De_Ja%C3%A9n.JPG/200px-Mar%C3%ADa_Santisima_De_La_Salud_De_Ja%C3%A9n.JPG",
+                    "imagineroTitularMariana":"Antonio Bernal Redondo"
+                },
+                "amargura":{
+                    "nombreHermandad":"Hermandad de la Amargura",
+                    "sedeCanonica":"Iglesia del Salvador",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ja%C3%A9n_-_Iglesia_de_El_Salvador_K01.jpg/280px-Ja%C3%A9n_-_Iglesia_de_El_Salvador_K01.jpg",
+                    "insignia":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW6qoxbwkIdSTru9PHp0ZUa9tJs5JiNjZKdA&s",
+                    "titularI":"Jesús de Pasión(Despojao)",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Despojado_Ja%C3%A9n.jpg/200px-Despojado_Ja%C3%A9n.jpg",
+                    "imagineroTitularI":"Miguel Zúñiga Navarro",
+                    "videoTitularI":"https://youtu.be/YQq-bK_Az2w?feature=shared",
+                    "titularMariana":"María Santísima de la Amargura",
+                    "imagenTitularMariana":"https://pasionenjaen.com/wp-content/uploads/2024/09/460960517_18461899300000915_5592688161611436021_n-1.jpg",
+                    "imagineroTitularMariana":"José de Mora",
+                    "videoTitularMariana":"https://youtu.be/2I2QhS3IIDc?feature=shared"
+                },
+                "estudiantes":{
+                    "nombreHermandad":"Cofradía de los Estudiantes",
+                    "sedeCanonica":"Iglesia de la Merced",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ja%C3%A9n_-_Iglesia_de_la_Merced_23.JPG/280px-Ja%C3%A9n_-_Iglesia_de_la_Merced_23.JPG",
+                    "insignia":"https://misericordiasylagrimas.com/img/secciones/escudo-titulo.png",
+                    "titularI":"Santísimo Cristo de las Misericordias",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Misericordias_en_Santa_Clara.JPG/273px-Misericordias_en_Santa_Clara.JPG",
+                    "imagineroTitularI":"atribuida a Salvador de Cuellar",
+                    "videoTitularI":"https://youtu.be/YFgUUP-cC04?feature=shared",
+                    "titularMariana":"Nuestra Señora de las Lágrimas",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ja%C3%A9n_-_Iglesia_de_la_Merced_13.JPG/220px-Ja%C3%A9n_-_Iglesia_de_la_Merced_13.JPG",
+                    "imagineroTitularMariana":"Juan Martínez Cerrillo",
+                    "videoTitularMariana":"https://youtu.be/hP-74sV43oY?feature=shared"
+                }
+            }
+        },"martesSanto":{
+            "hermandades":{
+                "divinoMaestro":{
+                    "nombreHermandad":"Hermandad del Divino Maestro",
+                    "sedeCanonica":"Colegio de la Congregación de Religiosas Misioneras del Divino Maestro",
+                    "imagenSedeCanonica":"https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/AWMSS7M3GBJ2DND33KICO65W5A.jpg",
+                    "insignia":"https://divinomaestrojaen.org/wp-content/uploads/2016/05/ESCUDO-HERMANDAD-1.jpg",
+                    "titularI":"Jesús Divino Maestro de Humildad y Entrega ",
+                    "imagenTitularI":"https://jaen24h.com/wp-content/uploads/2019/04/divino20maestro20jaen24h20semana20santa20jaen.png",
+                    "imagineroTitularI":"Antonio José Martínez Rodríguez",
+                    "videoTitularI":"https://youtu.be/Ihy6tKMFE0w?feature=shared",
+                    "titularMariana":"María Santísima del Amor",
+                    "imagenTitularMariana":"https://pbs.twimg.com/media/FGZQT59XsAEXr3s?format=jpg&name=large",
+                    "imagineroTitularMariana":"Antonio José Martínez"
+                },
+                "clemencia":{
+                    "nombreHermandad":"Cofradía de la Clemencia",
+                    "sedeCanonica":"Iglesia de Santa María Magdalena",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magdalena_Ja%C3%A9n.JPG/280px-Magdalena_Ja%C3%A9n.JPG",
+                    "insignia":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Escudo-Clemencia.png/229px-Escudo-Clemencia.png",
+                    "titularI":"Nuestro Padre Jesús de la Caída",
+                    "imagenTitularI":"https://www.gentedepaz.es/wp-content/uploads/2024/01/Jesus-de-la-Caida.jpg",
+                    "imagineroTitularI":"Emilio Navas Parejo",
+                    "videoTitularI":"https://youtu.be/zXZ3CnfixOc?feature=shared",
+                    "titularII":"Santísimo Cristo de la Clemencia",
+                    "imagenTitularII":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Clemencia.jpg/250px-Clemencia.jpg",
+                    "imagineroTitularII":"Salvador de Cuéllar",
+                    "videoTitularII":"https://youtu.be/HlDIEuG6NmY?feature=shared",
+                    "titularMariana":"María Santísima del Mayor Dolor",
+                    "imagenTitularMariana":"https://pasionenjaen.com/wp-content/uploads/2019/03/54800011_2381920395159583_8786109417973088256_n.jpg",
+                    "imagineroTitularMariana":"Alfredo Muñoz Arcos",
+                    "videoTitularMariana":"https://youtu.be/-0MIevfMEQg?feature=shared"
+                },
+                "silencio":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":"",
+                    "titularMariana":"",
+                    "imagenTitularMariana":"",
+                    "imagineroTitularMariana":"",
+                    "videoTitularMariana":""
+                }
+            }
+        },"miercolesSanto":{
+            "hermandades":{
+                
+            }
+        },"juevesSanto":{
+            "hermandades":{
+                
+            }
+        },"madruga":{
+            "hermandades":{
+                
+            }
+        },"viernesSanto":{
+            "hermandades":{
+                
+            }
+        },"sabadoSanto":{
+            "hermandades":{
+                
+            }
+        },"domingoResurreccion":{
+            "hermandades":{
+                
+            }
+        }
+    }
+}
