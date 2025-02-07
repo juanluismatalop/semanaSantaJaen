@@ -207,6 +207,18 @@
             }
         },"juevesSanto":{
             "hermandades":{
+                "lanzada":{
+                    "nombreHermandad":"Hermandad de la Sagrada Lanzada",
+                    "sedeCanonica":"Parroquia de La Inmaculada y San Pedro Pascual",
+                    "imagenSedeCanonica":"https://d17umfmk0e27oh.cloudfront.net/articulos/articulos-1362996.jpg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2023/09/escudo-lanzada.jpg",
+                    "titularI":"Santísimo Cristo de las Aguas",
+                    "imagenTitularI":"https://pbs.twimg.com/media/FPCfIl9WYAEbSwS?format=jpg&name=4096x4096",
+                    "imagineroTitularI":"José Miguel Tirao Carpio",
+                    "titularMariana":"María Santísima Reina de los Ángeles",
+                    "imagenTitularMariana":"https://pasionenjaen.com/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-19-at-22.11.32.jpeg",
+                    "imagineroTitularMariana":"José Miguel Tirao Carpio"                    
+                },
                 "veraCruz":{
                     "nombreHermandad":"Congregación de la Vera-Cruz",
                     "sedeCanonica":"Basílica Menor de San Ildefonso",
@@ -226,28 +238,31 @@
                     "videoTitularMariana":"https://youtu.be/ofwCn1SokGA?feature=shared"    
                 },
                 "expiracion":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":"",
-                    "titularMariana":"",
-                    "imagenTitularMariana":"",
-                    "imagineroTitularMariana":"",
-                    "videoTitularMariana":""     
+                    "nombreHermandad":"Hermandad de la Expiración",
+                    "sedeCanonica":"Iglesia de San Bartolomé",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iglesia_de_San_Bartolom%C3%A9_%28Ja%C3%A9n%29._Portada_%28recortada%29.jpg/420px-Iglesia_de_San_Bartolom%C3%A9_%28Ja%C3%A9n%29._Portada_%28recortada%29.jpg",
+                    "insignia":"https://semanasantaenjaen.wordpress.com/wp-content/uploads/2010/12/expiracion.gif",
+                    "titularI":"Cristo de la Expiración",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ja%C3%A9n_-_Iglesia_San_Bartolom%C3%A9_13.JPG/169px-Ja%C3%A9n_-_Iglesia_San_Bartolom%C3%A9_13.JPG",
+                    "imagineroTitularI":"atribuida a José de Medina",
+                    "videoTitularI":"https://youtu.be/ekHXm0JttNs?feature=shared",
+                    "titularMariana":"María Santísima de las Siete Palabras",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ja%C3%A9n_-_Iglesia_San_Bartolom%C3%A9_02.JPG/169px-Ja%C3%A9n_-_Iglesia_San_Bartolom%C3%A9_02.JPG",
+                    "imagineroTitularMariana":"Luis Álvarez Duarte",
+                    "videoTitularMariana":"https://youtu.be/bv8imivYG-0?feature=shared"     
                 },
-                "buenaMuerte":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":""   
+                "granPoder":{
+                    "nombreHermandad":"Hermandad del Gran Poder",
+                    "sedeCanonica":"Parroquia de la Santa Cruz",
+                    "imagenSedeCanonica":"https://lh5.googleusercontent.com/proxy/nv10-grYKXYdv8K1LuaIwweLwtuxxgifSt4oYSrUNaoPk7MTyJAhaPJGOHkkzfAIo36Dq3qkia4v6vCJabPJ3YuItOt0gUpY8nNb343XAwQKbofmg83yDPZQnlAv00Q",
+                    "insignia":"https://pbs.twimg.com/profile_images/1416453124026478594/rPp-gD-6_400x400.jpg",
+                    "titularI":"Jesús del Gran Poder",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gran_Poder_Ja%C3%A9n.jpg/375px-Gran_Poder_Ja%C3%A9n.jpg",
+                    "imagineroTitularI":"José Antonio Cabello Montilla",
+                    "titularMariana":"María Santísima del Dulce Nombre",
+                    "imagenMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dulce_Nombre_Ja%C3%A9n.jpg/169px-Dulce_Nombre_Ja%C3%A9n.jpg",
+                    "imagineroMarina":"José Antonio Cabello Montilla",
+                    "videoTitularI":"https://youtu.be/c24_9XJkzNk?feature=shared"   
                 }
             }
         },"madruga":{
