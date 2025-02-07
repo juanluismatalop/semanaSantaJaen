@@ -45,11 +45,11 @@
                     "videoTitularMariana":"https://youtu.be/xJ-KW6XC6iw?feature=shared"
                 },
                 "oracion":{
-                    "nombreHermandad":"Oración en el Huerto",
+                    "nombreHermandad":"Congregación de la Vera-Cruz",
                     "sedeCanonica":"Basílica Menor de San Ildefonso",
                     "imagenSedeCanonica":"https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/08/6392695435950.jpeg",
                     "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/vera-cruz-1-300x300.jpg",
-                    "titularI":"Jesus Orando en el Huerto",
+                    "titularI":"Misterio de Jesús orando en el huerto",
                     "imagenTitularI":"https://jaen24h.com/wp-content/uploads/2019/04/Oracion20en20el20huerto20jaen20semana20santa20jaen24h.webp",
                     "imagineroTitularI":"realizado en 1918 en Valencia, inspirándose en una obra que Francisco Salcillo",
                     "videoTitularI":"https://youtu.be/pErY1ThOixo?feature=shared",
@@ -138,6 +138,94 @@
                     "videoTitularMariana":"https://youtu.be/-0MIevfMEQg?feature=shared"
                 },
                 "silencio":{
+                    "nombreHermandad":"Hermandad del Silencio",
+                    "sedeCanonica":"Iglesia de Cristo Rey",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ja%C3%A9n_-_Iglesia_de_Cristo_Rey_K01.jpg/420px-Ja%C3%A9n_-_Iglesia_de_Cristo_Rey_K01.jpg",
+                    "insignia":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cruzdesantiago.jpg/180px-Cruzdesantiago.jpg",
+                    "titularI":"Santísimo Cristo de la Humildad",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cristohumildad1.jpg/375px-Cristohumildad1.jpg",
+                    "imagineroTitularI":"se relaciona con los círculos de Jerónimo Quijano y Gutierre Gierero",
+                    "videoTitularI":"https://youtu.be/DSEVGk45EC8?feature=shared",
+                    "titularMariana":"María Santísima Madre de Dios",
+                    "imagenTitularMariana":"https://pasionenjaen.com/wp-content/uploads/2024/03/RAFAGA.jpg",
+                    "imagineroTitularMariana":"Israel Cornejo Sánchez",
+                    "videoTitularMariana":"https://youtu.be/DSEVGk45EC8?feature=shared"
+                }
+            }
+        },"miercolesSanto":{
+            "hermandades":{
+                "trinidad":{
+                    "nombreHermandad":"Hermandad del Cautivo",
+                    "sedeCanonica":"Iglesia Parroquial de Santa Isabel",
+                    "imagenSedeCanonica":"https://www.elprogreso.es/media/elprogreso/images/2019/02/18/2019021817553451701.jpg",
+                    "insignia":"https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/s2034ac4d3bc05358/image/i6774a78e85daf03a/version/1351534165/image.jpg",
+                    "titularI":"Nuestro Divino Redentor Jesús Cautivo en el abandono de sus discípulos",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cautivo_Ja%C3%A9n.png/375px-Cautivo_Ja%C3%A9n.png",
+                    "imagineroTitularI":"Francisco Romero Zafra",
+                    "videoTitularI":"https://youtu.be/4mR16dClWZI?feature=shared",
+                    "titularMariana":"María Santísima de la Trinidad",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Trinidad_Ja%C3%A9n.jpg/270px-Trinidad_Ja%C3%A9n.jpg",
+                    "imagineroTitularMariana":"Francisco Romero Zafra",
+                    "videoTitularMariana":"https://youtu.be/wP7zoNjtGiE?feature=shared"
+                },
+                "amorPerdonEsperanza":{
+                    "nombreHermandad":"Cofradía del Perdón",
+                    "sedeCanonica":"Iglesia de Cristo Rey",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ja%C3%A9n_-_Iglesia_de_Cristo_Rey_K01.jpg/420px-Ja%C3%A9n_-_Iglesia_de_Cristo_Rey_K01.jpg",
+                    "insignia":"https://cofradiadelperdonjaen.com/wp-content/uploads/2023/02/Escudo-Hermandad-bordado-1024x1024.png",
+                    "titularI":"Cristo del Amor",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Amor_Jaen.JPG/225px-Amor_Jaen.JPG",
+                    "imagineroTitularI":"José Antonio Navarro Arteaga",
+                    "videoTitularI":"https://youtu.be/JSZDkme4_Vg?feature=shared",
+                    "titularII":"Jesús del Perdón",
+                    "imagenTitularII":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Perd%C3%B3n_Ja%C3%A9n.jpg/375px-Perd%C3%B3n_Ja%C3%A9n.jpg",
+                    "imagineroTitularII":"Francisco Palma Burgos",
+                    "videoTitularII":"https://youtu.be/DPUfx5IkM0o?feature=shared",
+                    "titularMariana":"María Santísima de la Esperanza",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Virgen_Esperanza_Ja%C3%A9n.jpg/150px-Virgen_Esperanza_Ja%C3%A9n.jpg",
+                    "imagineroTitularMariana":"Antonio Eslava Rubio",
+                    "videoTitularMariana":"https://youtu.be/tYyFv4dQvBM?feature=shared"    
+                },
+                "buenaMuerte":{
+                    "nombreHermandad":"Cofradía de la Buena Muerte",
+                    "sedeCanonica":"Catedral de la Asunción de Jaén",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jaen_Cathedral_2023_-_west_fa%C3%A7ade_1.jpg/420px-Jaen_Cathedral_2023_-_west_fa%C3%A7ade_1.jpg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/buenamuerte-300x300.jpg",
+                    "titularI":"Santísimo Cristo de la Buena Muerte",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Buena_Muerte_Catedral_Ja%C3%A9n.jpg/375px-Buena_Muerte_Catedral_Ja%C3%A9n.jpg",
+                    "imagineroTitularI":"Jacinto Higueras Fuentes",
+                    "videoTitularI":"https://youtu.be/6fqVfI9GhXY?feature=shared",
+                    "titularII":"Cristo de la Redención",
+                    "imagenTitularII":"https://www.orgullososdejaen.es/wp-content/uploads/2018/03/Cristo-descendido-Jaen-ok-1024x575.jpg",
+                    "imagineroTitularII":"Víctor de los Ríos",
+                    "videoTitularII":"https://youtu.be/gWoFqYRoneQ?feature=shared",
+                    "titularMariana":"Nuestra Señora de las Angustias",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/8/85/Angustias.jpg",
+                    "imagineroTitularMariana":"atribuida a José de Mora",
+                    "videoTitularMariana":"https://youtu.be/P20WdzxVQig?feature=shared"    
+                }
+            }
+        },"juevesSanto":{
+            "hermandades":{
+                "veraCruz":{
+                    "nombreHermandad":"Congregación de la Vera-Cruz",
+                    "sedeCanonica":"Basílica Menor de San Ildefonso",
+                    "imagenSedeCanonica":"https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/08/6392695435950.jpeg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/vera-cruz-1-300x300.jpg",
+                    "titularI":"Cristo de la Vera Cruz",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ja%C3%A9n_-_Vera-Cruz_2008.jpg/375px-Ja%C3%A9n_-_Vera-Cruz_2008.jpg",
+                    "imagineroTitularI":"Domingo Sánchez Mesa",
+                    "videoTitularI":"https://youtu.be/Br_lfK52FY4?feature=shared",
+                    "titularII":"Jesús preso",
+                    "imagenTitularII":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jes%C3%BAs_Preso%2C_Cofrad%C3%ADa_de_la_Vera_Cruz_24J_01_%28recortada%29.jpg/300px-Jes%C3%BAs_Preso%2C_Cofrad%C3%ADa_de_la_Vera_Cruz_24J_01_%28recortada%29.jpg",
+                    "imagineroTitularII":"Vicente Matheu",
+                    "videoTitularII":"https://youtu.be/ThnL914I6ao?feature=shared",
+                    "titularMariana":"María Santísima de los Dolores",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ja%C3%A9n_-_Dolores_Vera-Cruz_2008.jpg/300px-Ja%C3%A9n_-_Dolores_Vera-Cruz_2008.jpg",
+                    "imagineroTitularMariana":"Domingo Sánchez Mesa",
+                    "videoTitularMariana":"https://youtu.be/ofwCn1SokGA?feature=shared"    
+                },
+                "expiracion":{
                     "nombreHermandad":"",
                     "sedeCanonica":"",
                     "imagenSedeCanonica":"",
@@ -149,32 +237,95 @@
                     "titularMariana":"",
                     "imagenTitularMariana":"",
                     "imagineroTitularMariana":"",
-                    "videoTitularMariana":""
+                    "videoTitularMariana":""     
+                },
+                "buenaMuerte":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":""   
                 }
-            }
-        },"miercolesSanto":{
-            "hermandades":{
-                
-            }
-        },"juevesSanto":{
-            "hermandades":{
-                
             }
         },"madruga":{
             "hermandades":{
-                
+                "abuelo":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":"",
+                    "titularII":"",
+                    "imagenTitularII":"",
+                    "imagineroTitularII":"",
+                    "videoTitularII":"",
+                    "titularMariana":"",
+                    "imagenTitularMariana":"",
+                    "imagineroTitularMariana":"",
+                    "videoTitularMariana":"",
+                    "veronica":"",
+                    "imagenVeronica":"",
+                    "imagineroVeronica":"",
+                    "videoVeronicaS":"" 
+                }
             }
         },"viernesSanto":{
             "hermandades":{
-                
-            }
-        },"sabadoSanto":{
-            "hermandades":{
-                
+                "soledad":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":"",
+                    "titularMariana":"",
+                    "imagenTitularMariana":"",
+                    "imagineroTitularMariana":"",
+                    "videoTitularMariana":"" 
+                },
+                "santoEntierro":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":"",
+                    "titularII":"",
+                    "imagenTitularII":"",
+                    "imagineroTitularII":"",
+                    "videoTitularII":"",
+                    "titularMariana":"",
+                    "imagenTitularMariana":"",
+                    "imagineroTitularMariana":"",
+                    "videoTitularMariana":"" 
+                }
             }
         },"domingoResurreccion":{
             "hermandades":{
-                
+                "resucitado":{
+                    "nombreHermandad":"",
+                    "sedeCanonica":"",
+                    "imagenSedeCanonica":"",
+                    "insignia":"",
+                    "titularI":"",
+                    "imagenTitularI":"",
+                    "imagineroTitularI":"",
+                    "videoTitularI":"",
+                    "titularMariana":"",
+                    "imagenTitularMariana":"",
+                    "imagineroTitularMariana":"",
+                    "videoTitularMariana":"" 
+                }   
             }
         }
     }
