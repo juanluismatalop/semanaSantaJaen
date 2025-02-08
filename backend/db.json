@@ -268,78 +268,78 @@
         },"madruga":{
             "hermandades":{
                 "abuelo":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":"",
-                    "titularII":"",
-                    "imagenTitularII":"",
-                    "imagineroTitularII":"",
-                    "videoTitularII":"",
-                    "titularMariana":"",
-                    "imagenTitularMariana":"",
-                    "imagineroTitularMariana":"",
-                    "videoTitularMariana":"",
-                    "veronica":"",
-                    "imagenVeronica":"",
-                    "imagineroVeronica":"",
-                    "videoVeronicaS":"" 
+                    "nombreHermandad":"Cofradía de Nuestro Padre Jesús Nazareno",
+                    "sedeCanonica":"Iglesia de San José",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ja%C3%A9n_-_Camar%C3%ADn_de_Jes%C3%BAs.jpg/420px-Ja%C3%A9n_-_Camar%C3%ADn_de_Jes%C3%BAs.jpg",
+                    "insignia":"https://www.cofradiaelabuelo.com/images/iconos/logo.png",
+                    "titularI":"Nuestro Padre Jesús Nazareno",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/El_Abuelo.jpg/375px-El_Abuelo.jpg",
+                    "imagineroTitularI":"anonimo",
+                    "videoTitularI":"https://youtu.be/FO9ZbqdVLaY?feature=shared",
+                    "titularII":"San Juan",
+                    "imagenTitularII":"https://img.europapress.es/fotoweb/fotonoticia_20190315123345_1200.jpg",
+                    "imagineroTitularII":"anonimo",
+                    "videoTitularII":"https://youtu.be/4DO_ggBcBmM?feature=shared",
+                    "titularMariana":"María Santísima de los Dolores",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ja%C3%A9n_-_Catedral%2C_altar_mayor_5.jpg/169px-Ja%C3%A9n_-_Catedral%2C_altar_mayor_5.jpg",
+                    "imagineroTitularMariana":"José de Medina",
+                    "videoTitularMariana":"https://youtu.be/oiH5yRLgfzE?feature=shared",
+                    "veronica":"Santa Marcela, La Verónica",
+                    "imagenVeronica":"https://www.cofradiaelabuelo.com/images/imagenes/DSC_0596.JPG",
+                    "imagineroVeronica":"Modesto Damián Pastor y Juliá",
+                    "videoVeronicaS":"https://youtu.be/1yvtKOA3XXY?feature=shared" 
                 }
             }
         },"viernesSanto":{
             "hermandades":{
-                "soledad":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":"",
-                    "titularMariana":"",
-                    "imagenTitularMariana":"",
-                    "imagineroTitularMariana":"",
-                    "videoTitularMariana":"" 
+                "santoSepulcro":{
+                    "nombreHermandad":"Congregación del Santo Sepulcro",
+                    "sedeCanonica":"Iglesia de San Juan",
+                    "imagenSedeCanonica":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sanjuan04.jpg/420px-Sanjuan04.jpg",
+                    "insignia":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMGL0eR3MpJvHgviqCGLSG1sVBxdgpa3V6g&s",
+                    "titularI":"Calvario",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Calvario_-_Ja%C3%A9n.JPG/225px-Calvario_-_Ja%C3%A9n.JPG",
+                    "imagineroTitularI":"atribuido a Sebastián de Solís",
+                    "videoTitularI":"https://youtu.be/n5fHfkafDo4?feature=shared",
+                    "titularII":"Santísimo Cristo Yacente",
+                    "imagenTitularII":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Santo_Sepulcro_Jaen.JPG/375px-Santo_Sepulcro_Jaen.JPG",
+                    "imagineroTitularII":"Juan Abascal Fuentes",
+                    "videoTitularII":"https://youtu.be/bGW13gyGy3M?feature=shared",
+                    "titularMariana":"Nuestra Señora de los Dolores",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Virgen-Dolores-Ja%C3%A9n.jpg/169px-Virgen-Dolores-Ja%C3%A9n.jpg",
+                    "imagineroTitularMariana":"Sebastián de Solís",
+                    "videoTitularMariana":"https://youtu.be/D7c0ypZu-lQ?feature=shared" 
                 },
-                "santoEntierro":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":"",
-                    "titularII":"",
-                    "imagenTitularII":"",
-                    "imagineroTitularII":"",
-                    "videoTitularII":"",
-                    "titularMariana":"",
-                    "imagenTitularMariana":"",
-                    "imagineroTitularMariana":"",
-                    "videoTitularMariana":"" 
+                "soledad":{
+                    "nombreHermandad":"Cofradía de la Soledad",
+                    "sedeCanonica":"Basílica Menor de San Ildefonso",
+                    "imagenSedeCanonica":"https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/08/6392695435950.jpeg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2021/05/escudo-corregido-am-gris-oscuro-original-252x300.jpg",
+                    "titularI":"Santísimo Cristo Yacente",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cristo_Yacente_de_la_iglesia_de_san_Ildefonso%2C_Ja%C3%A9n.jpg/750px-Cristo_Yacente_de_la_iglesia_de_san_Ildefonso%2C_Ja%C3%A9n.jpg",
+                    "imagineroTitularI":"Constantino Unghetti Álamo",
+                    "videoTitularI":"https://youtu.be/En1Da8p82QU?feature=shared",
+                    "titularMariana":"Nuestra Señora de la Soledad",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Soledad_Ja%C3%A9n.JPG/375px-Soledad_Ja%C3%A9n.JPG",
+                    "imagineroTitularMariana":"Alfredo Muñoz Arcos",
+                    "videoTitularMariana":"https://youtu.be/7XWeHyd9CUs?feature=shared" 
                 }
             }
         },"domingoResurreccion":{
             "hermandades":{
                 "resucitado":{
-                    "nombreHermandad":"",
-                    "sedeCanonica":"",
-                    "imagenSedeCanonica":"",
-                    "insignia":"",
-                    "titularI":"",
-                    "imagenTitularI":"",
-                    "imagineroTitularI":"",
-                    "videoTitularI":"",
-                    "titularMariana":"",
-                    "imagenTitularMariana":"",
-                    "imagineroTitularMariana":"",
-                    "videoTitularMariana":"" 
+                    "nombreHermandad":"Cofradía del Resucitado",
+                    "sedeCanonica":"Basílica Menor de San Ildefonso",
+                    "imagenSedeCanonica":"https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/08/6392695435950.jpeg",
+                    "insignia":"https://cofradiasjaen.org/wp-content/uploads/2017/01/resucitado-300x300.jpg",
+                    "titularI":"Jesús en su Gloriosa Resurrección",
+                    "imagenTitularI":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Resucitado_Ja%C3%A9n.jpg/375px-Resucitado_Ja%C3%A9n.jpg",
+                    "imagineroTitularI":"Rafael Rubio Vernia",
+                    "videoTitularI":"https://youtu.be/6_qmqJWeNvI?feature=shared",
+                    "titularMariana":"María Santísima de la Victoria",
+                    "imagenTitularMariana":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Virgen_de_la_Victoria_Jaen.jpg",
+                    "imagineroTitularMariana":"Alfredo Muñoz Arcos",
+                    "videoTitularMariana":"https://youtu.be/67R34qS0dTc?feature=shared" 
                 }   
             }
         }
