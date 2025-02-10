@@ -1,0 +1,31 @@
+import React from "react";
+
+const SemanaSanta = ({ data }) => {
+  return (
+    <div>
+      {data.map((dia) => (
+        <div key={dia.dia}>
+          <h2>{dia.dia}</h2>
+          {dia.hermandades.map((hermandad) => (
+            <div key={hermandad.nombre}>
+              <h3>{hermandad.nombre}</h3>
+              <img src={hermandad.sedeCanonica.imagen} alt={hermandad.sedeCanonica.nombre} />
+              <ul>
+                {hermandad.titulares.map((titular) => (
+                  <li key={titular.nombre}>
+                    <p>{titular.nombre}</p>
+                    <img src={titular.imagen} alt={titular.nombre} />
+                    <p>Imaginero: {titular.imaginero}</p>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default SemanaSanta;
+
